@@ -1,2 +1,2 @@
 # Premium-Bot
-EchoNexus' premium bot. Invite at https://premium.echonexus.pro/
+EchoNexus' premium bot. Invite at [premium.echonexus.pro](https://premium.echonexus.pro/)
